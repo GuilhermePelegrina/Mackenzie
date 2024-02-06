@@ -1,4 +1,4 @@
-# Disciplina: Análise de Dados**
+# Disciplina: Análise de Dados
 
 ### Professor: Guilherme Dean Pelegrina
 
