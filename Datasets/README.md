@@ -14,5 +14,8 @@ This data was collected from WHO and United Nations website with the help of Dee
 - Bitcoin Prices (https://www.sciencedirect.com/science/article/abs/pii/S1544612318301284)
 Giudici, P., and Abu-Hashish, I. (2019). What determines bitcoin exchange prices? A network VAR approach. Finance Research Letters, 28, 309-318.
 
+- Computer Hardware (https://archive.ics.uci.edu/dataset/29/computer+hardware)
+Feldmesser, Jacob. (1987). Computer Hardware. UCI Machine Learning Repository. https://doi.org/10.24432/C5830D.
+
 
 
