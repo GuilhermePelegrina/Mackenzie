@@ -23,5 +23,8 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 - Auto MPG (https://archive.ics.uci.edu/dataset/9/auto+mpg)
 Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
+- Car Price Prediction (https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+
+
 
 
