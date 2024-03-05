@@ -34,4 +34,4 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 
 
 
-Npte: The use of these datasets has no commercial purpose.
+*Note: The use of these datasets has no commercial purpose.*
