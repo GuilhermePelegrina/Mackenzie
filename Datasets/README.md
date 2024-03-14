@@ -30,7 +30,7 @@ Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarct
 - Pima Indian Diabetes (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
-
+- Salários (http://www.orlandoalbarracin.com.br/phyton/data2.csv)
 
 
 
