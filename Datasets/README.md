@@ -22,6 +22,10 @@ Giudici, P., and Abu-Hashish, I. (2019). What determines bitcoin exchange prices
 - Computer Hardware (https://archive.ics.uci.edu/dataset/29/computer+hardware)
 Feldmesser, Jacob. (1987). Computer Hardware. UCI Machine Learning Repository. https://doi.org/10.24432/C5830D.
 
+- COMPAS Recidivism Risk (https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias - ProPublica.
+*OBS: This dataset has been preprocessed. For the original one, please visit the ProPublica page.
+
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
