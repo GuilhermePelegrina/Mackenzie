@@ -22,7 +22,8 @@ Giudici, P., and Abu-Hashish, I. (2019). What determines bitcoin exchange prices
 - Computer Hardware (https://archive.ics.uci.edu/dataset/29/computer+hardware)
 Feldmesser, Jacob. (1987). Computer Hardware. UCI Machine Learning Repository. https://doi.org/10.24432/C5830D.
 
-- European Energy (https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
+- Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
+Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
 - Life Expectancy (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 This data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
