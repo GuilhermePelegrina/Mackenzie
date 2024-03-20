@@ -40,6 +40,8 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 
 - Salários (http://www.orlandoalbarracin.com.br/phyton/data2.csv)
 
+- SP500 and Ibovespa 2023: Datasets containing indices variation in 2023.
+
 
 
 
