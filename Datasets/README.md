@@ -35,6 +35,9 @@ Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictiv
 - Life Expectancy (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 This data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
+- Mushroom 9https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
+Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Machine Learning Repository. https://doi.org/10.24432/C5FP5Q.
+
 - Palmer Penguins (https://allisonhorst.github.io/palmerpenguins/)
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi:10.5281/zenodo.3960218.
 
