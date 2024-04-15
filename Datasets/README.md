@@ -48,6 +48,9 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 
 - S&P500 and Ibovespa 2023: Datasets containing indices variation in 2023.
 
+- US Arrests (https://www.kaggle.com/code/aishu2218/us-arrests-using-hierarchical-clustering-analysis)
+- 
+
 
 
 
