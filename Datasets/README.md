@@ -44,6 +44,9 @@ Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarct
 - Pima Indian Diabetes (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
+- Red Wine Quality (https://archive.ics.uci.edu/dataset/186/wine+quality)
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
 - S&P500 and Ibovespa 2023: Datasets containing indices variation in 2023.
 
 - Salários (http://www.orlandoalbarracin.com.br/phyton/data2.csv)
@@ -53,8 +56,7 @@ Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lu
 
 - US Arrests (https://www.kaggle.com/code/aishu2218/us-arrests-using-hierarchical-clustering-analysis)
 
-- Red Wine Quality (https://archive.ics.uci.edu/dataset/186/wine+quality)
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+- Vida útil: Dados contendo a vida útil de equipamentos fabricados por três marcas diferentes.
 
 
 
