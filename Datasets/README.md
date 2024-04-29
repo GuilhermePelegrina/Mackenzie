@@ -52,7 +52,9 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). Seeds. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
 
 - US Arrests (https://www.kaggle.com/code/aishu2218/us-arrests-using-hierarchical-clustering-analysis)
-- 
+
+- Red Wine Quality (https://archive.ics.uci.edu/dataset/186/wine+quality)
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 
 
