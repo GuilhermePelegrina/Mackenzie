@@ -5,6 +5,9 @@ Conjuntos de dados usados em atividades em sala de aula.
 - Adult Income (https://archive.ics.uci.edu/dataset/2/adult)
 Becker, Barry and Kohavi, Ronny. (1996). Adult. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
 
+- New York City Airbnb - 2019 (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
+The original source can seen in https://insideairbnb.com/.
+
 - Auto MPG (https://archive.ics.uci.edu/dataset/9/auto+mpg)
 Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
