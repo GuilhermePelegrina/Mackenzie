@@ -5,9 +5,6 @@ Conjuntos de dados usados em atividades em sala de aula.
 - Adult Income (https://archive.ics.uci.edu/dataset/2/adult)
 Becker, Barry and Kohavi, Ronny. (1996). Adult. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
 
-- New York City Airbnb - 2019 (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
-The original source can seen in https://insideairbnb.com/.
-
 - Auto MPG (https://archive.ics.uci.edu/dataset/9/auto+mpg)
 Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
@@ -40,6 +37,9 @@ This data was collected from WHO and United Nations website with the help of Dee
 
 - Mushroom 9https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Machine Learning Repository. https://doi.org/10.24432/C5FP5Q.
+
+- New York City Airbnb - 2019 (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
+The original source can seen in https://insideairbnb.com/.
 
 - Palmer Penguins (https://allisonhorst.github.io/palmerpenguins/)
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi:10.5281/zenodo.3960218.
