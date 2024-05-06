@@ -32,6 +32,8 @@ Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias - ProPubl
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
+- GDP per capta, 2017 (http://www.orlandoalbarracin.com.br/phyton/Gdp_per_capita.xls).
+
 - Life Expectancy (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 This data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
