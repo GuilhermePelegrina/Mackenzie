@@ -22,6 +22,8 @@ Giudici, P., and Abu-Hashish, I. (2019). What determines bitcoin exchange prices
 
 - Car Price Prediction (https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 
+- CO2 emission (http://www.orlandoalbarracin.com.br/phyton/CO2emissions.xlsx).
+
 - Computer Hardware (https://archive.ics.uci.edu/dataset/29/computer+hardware)
 Feldmesser, Jacob. (1987). Computer Hardware. UCI Machine Learning Repository. https://doi.org/10.24432/C5830D.
 
