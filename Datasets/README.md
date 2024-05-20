@@ -23,6 +23,9 @@ Fanaee-T, Hadi. (2013). Bike Sharing Dataset. UCI Machine Learning Repository. h
 - Bitcoin Prices (https://www.sciencedirect.com/science/article/abs/pii/S1544612318301284)
 Giudici, P., and Abu-Hashish, I. (2019). What determines bitcoin exchange prices? A network VAR approach. Finance Research Letters, 28, 309-318.
 
+- California Housing Prices (https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download)
+Pace, R. Kelley and Ronald Barry, Sparse Spatial Autoregressions, Statistics and Probability Letters, 33 (1997) 291-297.
+
 - Car Price Prediction (https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 
 - CO2 emission (http://www.orlandoalbarracin.com.br/phyton/CO2emissions.xlsx).
