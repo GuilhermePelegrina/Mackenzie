@@ -72,6 +72,8 @@ Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lu
 
 - US Arrests (https://www.kaggle.com/code/aishu2218/us-arrests-using-hierarchical-clustering-analysis)
 
+- Vegetables and Fruits Prices (https://www.kaggle.com/datasets/ramkrijal/agriculture-vegetables-fruits-time-series-prices)
+
 - Vida útil: Dados contendo a vida útil de equipamentos fabricados por três marcas diferentes.
 
 
