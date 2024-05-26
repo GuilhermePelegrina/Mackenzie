@@ -48,7 +48,7 @@ Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictiv
 Alizadehsani, R., Roshanzamir, M., Abdar, M. et al. A database for using machine learning and data mining techniques for coronary artery disease diagnosis. Sci Data 6, 227 (2019). https://doi.org/10.1038/s41597-019-0206-3
 
 - Indicadores de Segurança Pública 2015 - 2022 (Brasil)
-- 
+
 - Jobs and Salaries in Data Science (https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data)
 
 - League of Legends (LoL) Ranked Games (https://www.kaggle.com/datasets/datasnaek/league-of-legends)
@@ -86,7 +86,7 @@ Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lu
 
 - Vida útil: Dados contendo a vida útil de equipamentos fabricados por três marcas diferentes.
 
-
+- World Happiness Report (https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)
 
 
 
