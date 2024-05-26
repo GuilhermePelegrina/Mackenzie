@@ -64,6 +64,8 @@ Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarct
 - Pima Indian Diabetes (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
+- Pokemon statistics (https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6)
+
 - Red Wine Quality (https://archive.ics.uci.edu/dataset/186/wine+quality)
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
