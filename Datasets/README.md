@@ -8,6 +8,8 @@ Becker, Barry and Kohavi, Ronny. (1996). Adult. UCI Machine Learning Repository.
 - Air Passengers (https://www.kaggle.com/datasets/rakannimer/air-passengers)
 This dataset is taken from an inbuilt dataset of R called AirPassengers.
 
+- Android App Market on Google Play (https://www.kaggle.com/datasets/malvirex/the-android-app-market-on-google-play)
+
 - Auto MPG (https://archive.ics.uci.edu/dataset/9/auto+mpg)
 Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 
