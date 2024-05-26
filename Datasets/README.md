@@ -52,6 +52,8 @@ Alizadehsani, R., Roshanzamir, M., Abdar, M. et al. A database for using machine
 - Life Expectancy (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 This data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
+- League of Legends (LoL) Ranked Games (https://www.kaggle.com/datasets/datasnaek/league-of-legends)
+
 - Mushroom 9https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Machine Learning Repository. https://doi.org/10.24432/C5FP5Q.
 
