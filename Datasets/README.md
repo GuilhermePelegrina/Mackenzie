@@ -65,6 +65,9 @@ Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Ma
 - New York City Airbnb - 2019 (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 The original source can seen in https://insideairbnb.com/.
 
+- Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail).
+Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
+
 - Palmer Penguins (https://allisonhorst.github.io/palmerpenguins/)
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi:10.5281/zenodo.3960218.
 
