@@ -86,6 +86,9 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 - Seeds (https://archive.ics.uci.edu/dataset/236/seeds)
 Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). Seeds. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
 
+- Titanic: Train and Test datasets (https://www.kaggle.com/competitions/titanic/overview)
+Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
+
 - US Arrests (https://www.kaggle.com/code/aishu2218/us-arrests-using-hierarchical-clustering-analysis)
 
 - Vegetables and Fruits Prices (https://www.kaggle.com/datasets/ramkrijal/agriculture-vegetables-fruits-time-series-prices)
