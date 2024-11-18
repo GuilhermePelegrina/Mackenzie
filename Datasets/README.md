@@ -42,6 +42,9 @@ Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias - ProPubl
 - COVID 2020 (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248920)
 Dantas, L. F., Peres, I. T., Bastos, L. S., Marchesi, J. F., De Souza, G. F., Gelli, J. G. M., ... & Bozza, F. A. (2021). App-based symptom tracking to optimize SARS-CoV-2 testing strategy using machine learning. PLoS One, 16(3), e0248920.
 
+- COVID SARS (SRAG)
+Dados de exemplo
+
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
