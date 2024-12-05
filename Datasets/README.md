@@ -68,6 +68,8 @@ Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Ma
 - New York City Airbnb - 2019 (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 The original source can seen in https://insideairbnb.com/.
 
+- Online Payment Fraud Detection (https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection?resource=download)
+
 - Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail).
 Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
 
