@@ -50,6 +50,9 @@ Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictiv
 
 - GDP per capita, 2017 (http://www.orlandoalbarracin.com.br/phyton/Gdp_per_capita.xls).
 
+- German Credit Statlog (https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+Hofmann, H. (1994). Statlog (German Credit Data) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77.
+
 - Heart Disease Statlog (https://www.kaggle.com/datasets/sid321axn/heart-statlog-cleveland-hungary-final)
 Alizadehsani, R., Roshanzamir, M., Abdar, M. et al. A database for using machine learning and data mining techniques for coronary artery disease diagnosis. Sci Data 6, 227 (2019). https://doi.org/10.1038/s41597-019-0206-3
 
