@@ -8,6 +8,9 @@ Becker, Barry and Kohavi, Ronny. (1996). Adult. UCI Machine Learning Repository.
 - Air Passengers (https://www.kaggle.com/datasets/rakannimer/air-passengers)
 This dataset is taken from an inbuilt dataset of R called AirPassengers.
 
+- AI4I 2020 Predictive Maintenance (https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
+AI4I 2020 Predictive Maintenance Dataset [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5HS5C.
+
 - Android App Market on Google Play (https://www.kaggle.com/datasets/malvirex/the-android-app-market-on-google-play)
 
 - Auto MPG (https://archive.ics.uci.edu/dataset/9/auto+mpg)
