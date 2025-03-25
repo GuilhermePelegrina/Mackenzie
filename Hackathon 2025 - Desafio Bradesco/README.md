@@ -21,7 +21,7 @@ Você recebeu um conjunto de dados históricos que contém informações sobre c
 
 •	Inadimplencia: Variável resposta (target) indicando se o cliente se tornou inadimplente Sim ou Não
 
-##Entrega:
+## Entrega:
 
 - Um notebook de análise de dados contendo todo o código.
 - Uma apresentação em Power Point resumindo as análises realizadas, o desempenho do modelo e suas principais conclusões. Destacar os principais fatores que influenciam o risco de inadimplência e as recomendações para mitigar esse risco.
