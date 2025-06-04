@@ -102,6 +102,9 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 - Seeds (https://archive.ics.uci.edu/dataset/236/seeds)
 Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). Seeds. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
 
+- Seoul Bike Sharing (https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
+Seoul Bike Sharing Demand [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
+
 - Série temporal com variáveis exógenas (data_serie_temporal_exogena)
 Exemplo sintético de uma série temporal com variável exógena.
 
