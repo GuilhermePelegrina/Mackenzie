@@ -117,6 +117,8 @@ Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/com
 
 - Vida útil: Dados contendo a vida útil de equipamentos fabricados por três marcas diferentes.
 
+- Global Water Consumption (https://www.kaggle.com/datasets/atharvasoundankar/global-water-consumption-dataset-2000-2024?resource=download)
+
 - World Happiness Report (https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)
 
 
