@@ -98,6 +98,9 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 - Red Wine Quality (https://archive.ics.uci.edu/dataset/186/wine+quality)
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
+- Road Traffic Accidents (https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents)
+Bedane, Tarikwa Tesfa (2020), “Road Traffic Accident Dataset of Addis Ababa City”, Mendeley Data, V1, doi: 10.17632/xytv86278f.1
+
 - S&P500 and Ibovespa 2023: Datasets containing indices variation in 2023.
 
 - Salários (http://www.orlandoalbarracin.com.br/phyton/data2.csv)
