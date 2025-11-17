@@ -51,6 +51,9 @@ Dantas, L. F., Peres, I. T., Bastos, L. S., Marchesi, J. F., De Souza, G. F., Ge
 - COVID SARS (SRAG)
 Dados de exemplo
 
+- Credit Card Fault Detection
+Dados de exemplo
+
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
