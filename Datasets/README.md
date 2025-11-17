@@ -51,7 +51,7 @@ Dantas, L. F., Peres, I. T., Bastos, L. S., Marchesi, J. F., De Souza, G. F., Ge
 - COVID SARS (SRAG)
 Dados de exemplo
 
-- Credit Card Fault Detection
+- Credit Card Fraud Detection
 Dados de exemplo
 
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
