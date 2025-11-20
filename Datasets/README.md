@@ -57,6 +57,8 @@ Dados de exemplo
 - Default of credit card clients - Taiwan (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 Yeh, I.C., Lien, C.: The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Syst. Appl. 36, 2473–2480 (2009)
 
+- Diabetes Types (https://github.com/Th3N1zz/Data-Analysis-Project/tree/main)
+
 - Eletrônicos: Conjunto de dados acerca da demanda, lead time e lote de importação para um conjunto de produtos eletrônicos.
 
 - GDP per capita, 2017 (http://www.orlandoalbarracin.com.br/phyton/Gdp_per_capita.xls).
