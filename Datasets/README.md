@@ -111,6 +111,8 @@ Bedane, Tarikwa Tesfa (2020), “Road Traffic Accident Dataset of Addis Ababa Ci
 - S&P500 and Ibovespa 2023: Datasets containing indices variation in 2023.
 
 - Salários (http://www.orlandoalbarracin.com.br/phyton/data2.csv)
+- 
+- Screen Time vs Mental Wellness Survey - 2025 (https://www.kaggle.com/datasets/adharshinikumar/screentime-vs-mentalwellness-survey-2025)
 
 - Seeds (https://archive.ics.uci.edu/dataset/236/seeds)
 Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). Seeds. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
