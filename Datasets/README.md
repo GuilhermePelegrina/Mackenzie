@@ -76,6 +76,8 @@ Alizadehsani, R., Roshanzamir, M., Abdar, M. et al. A database for using machine
 - Life Expectancy (https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 This data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
+- Mental Health & Social Media Balance (https://www.kaggle.com/datasets/prince7489/mental-health-and-social-media-balance-dataset)
+
 - Mushroom 9https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
 Wagner,Dennis, Heider,D., and Hattab,Georges. (2023). Secondary Mushroom. UCI Machine Learning Repository. https://doi.org/10.24432/C5FP5Q.
 
