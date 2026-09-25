@@ -5,6 +5,9 @@ Conjuntos de dados usados em atividades em sala de aula.
 - Adult Income (https://archive.ics.uci.edu/dataset/2/adult)
 Becker, Barry and Kohavi, Ronny. (1996). Adult. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
 
+- Air compressor (modified from the original data) (https://archive.ics.uci.edu/dataset/791/metropt3)
+Davari, N., Veloso, B., Ribeiro, R.P., Pereira, P.M., Gama. Predictive maintenance based on anomaly detection using deep learning for air production unit in the railway industry. 2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA), 2021.
+
 - Air Passengers (https://www.kaggle.com/datasets/rakannimer/air-passengers)
 This dataset is taken from an inbuilt dataset of R called AirPassengers.
 
